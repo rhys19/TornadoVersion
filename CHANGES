@@ -1,4 +1,3 @@
-* Improved Tornado graphics - should be less laggy
-* Improved EAS Integration (Script will be sent with the files)
-* Removed some useless code causing more lag!
-* Fixed the issue where the tornado wouldn't pick you/cars up!
+* Added Ace Permissions back - rhys19.tornadocmds allow
+* Fixed issue where it still wouldn't pick you up, please make sure onesync is enabled for this one.
+* Added a notification to the client when you spawn a tornado and delete one.
